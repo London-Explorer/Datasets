@@ -1,11 +1,48 @@
-Name,Area,Type,Info1,Info2,Info3,Info4,Latitude,Longtitude
-St Annes Church (Soho),Soho,Church,Small Anglican Church in the heart of Soho,Home of the Annual Summer Fete,,,51.51224098749221,-0.13259906184791273
-School of Historic Dress,Lambeth,Theatre and Arts,,,,,51.497442496569995, -0.10819661508369491
+Name,Area,Type,Info1,Info2,Info3,Info4,Latitude,Longitude
+St Annes Church (Soho),Soho,Church,Small Anglican Church in the heart of Soho,Home of the Annual Summer Fete,,,51.51224098749221,-0.1325990618479127
+School of Historic Dress,Lambeth,Theatre and Arts,,,,,51.49744249657,-0.1081966150836949
 Cinema Museum,Lambeth,Theatre and Arts,Formerly the Lambeth Workhouse,Charlie Chaplin was held here when he was a child,,,51.4920859,-0.1056558
 Villa Garden Lodge,Earl's Court,Residence,Freddy Mercury's Mansion,,,,51.4942319,-0.1986089
-Zebrano,Soho,Venue,Previously the location of the famous Establishment Club, The Establishment Club was run by famous actor and comedian Peter Cook,,, 51.51399201373349, -0.1306973756723536
-The Docker's Inn,Wapping, Pub,,,,,51.5048793, -0.0573725
+Zebrano,Soho,Venue,Previously the location of the famous Establishment Club, The Establishment Club was run by famous actor and comedian Peter Cook,,,51.51399201373349,-0.1306973756723536
+The Docker's Inn,Wapping, Pub,,,,,51.5048793,-0.0573725
 Turner's Old Star,Wapping, Pub,,,,,51.505372,-0.0615917
 Prospect of Whitby,Wapping, Pub,,,,,51.5067276,-0.0517212
 The Grapes,Limehouse,Pub,,,,,51.5087743,-0.0336283
-25 Brompton Square, South Kensington, House,No. 25 was home to the novelist E. F. Benson with a blue plaque commemorates this., This house is the setting for his 1927 book Lucia in London.,,,51.49826717963366, -0.16941008810336824
+25 Brompton Square, South Kensington, House,No. 25 was home to the novelist E. F. Benson with a blue plaque commemorates this., This house is the setting for his 1927 book Lucia in London.,,,51.49826717963366,-0.1694100881033682
+De Hems Dutch Cafe Bar,Chinatown,Pub,Former Oyster Bar owned by famed Bareknuckle Fighter Bill Richmond,Center of Dutch Resistance during WW2,,,51.51229703756533,-0.13127958820387434
+The Bolton Pub & Proeflokaal Rembrandt,Earl's Court,Pub,,,,,51.48978531031735,-0.1904164440227764
+Ye Olde Swiss Cottage,Camden,Pub,,,,,51.542932268097466,-0.1746632806972984
+Ye Olde Mitre,Holborn,Pub,https://en.wikipedia.org/wiki/Ye_Olde_Mitre,,,,51.51845437603423,-0.10739141654411559
+Ye Grapes,Shepherd Market,Pub,,,,,51.506771792902875,-0.14631895936765832
+Ye Grapes,Shepherd's Market,Pub,,,,,51.506771792902875,-0.14631895936765832
+Mount Street Gardens,Mayfair,Park,,,,,51.50932542727855,-0.15080146122215837
+Fitzroy Tavern,Fitzrovia,Pub,Namesake of Fitzrovia,,,,51.51878860190724,-0.13468703053092904
+The Wheatsheaf,Fitzrovia,Pub,"Favoured among literates, e.g. Dylan Thomas and George Orwell",,,,51.51790633325548,-0.1341401170400514
+The Lamb,Bloomsbury,Pub,"https://en.wikipedia.org/wiki/The_Lamb,_Bloomsbury",,,,51.523109974824955,-0.11901143467612327
+Auto-Icon,Bloomsbury,Sight,https://www.ucl.ac.uk/bentham-project/about-jeremy-bentham/auto-icon,,,,51.52492836003556,-0.13250370169434297
+British Museum,Bloomsbury,Museum,https://en.wikipedia.org/wiki/British_Museum,,,,51.51946446397033,-0.12697553477055815
+Maison Bertaux,Soho,Food,Oldest French Patisserie in London,,,,51.51341816037052,-0.13030657346532998
+John Snow,Soho,Pub,,,,,51.51343210216324,-0.1365820440220086
+Red Lion,Westminster,Pub,Has bell that used to ring to call MPs back to parliament,,,,51.50210281952932,-0.12574098578373094
+St Stephens Tavern,Westminster,Pub/Food,Politicians Hangout,,,,51.50115876001489,-0.12557750122607425
+Pickering Place,St. James,Sight,London's smalles place,The Republic of Texas Legation used to be there,https://en.wikipedia.org/wiki/Berry_Bros._%26_Rudd,,51.50590017590394,-0.1378856863495144
+Golden Lion Pub,St. James,Pub/Food,Former Theater Bar and hangout of Oscar Wilde,,,,51.50637245510151,-0.13743601709884146
+Institute of Directors (IoD),St. James,Venue/Pub,Lovely vaulted basement bar that is open to the public,,,,51.50733345768398,-0.13185348634947003
+Giro the Dog,St. James,Sight,Former German Embassy,https://en.wikipedia.org/wiki/Giro_(dog),,,51.50637158689745,-0.13186692448067497
+Benjamin Franklin House,Embankment,Museum,https://en.wikipedia.org/wiki/Benjamin_Franklin_House,,,,51.50781640047612,-0.12483495751307915
+Ship & Shovell,Embankment,Pub,https://en.wikipedia.org/wiki/Ship_and_Shovell,,,,51.507832122681705,-0.12470031518581917
+Gordons,Embankment,Pub,Londons oldest winebar,,,,51.50793944329469,-0.12334335317199425
+The Royal Institution,Mayfair,Museum,Free museum which has among other things Faradays equipment,,,,51.51002759537122,-0.1424628863493743
+The Tipperary,Fleet Street,Pub,https://en.wikipedia.org/wiki/The_Tipperary,,,,51.5142301037291,-0.10760794277413474
+Ye Olde Cock Tavern,Fleet Street,Pub,https://en.wikipedia.org/wiki/Ye_Olde_Cock_Tavern,,,,51.51385888564216,-0.11047630037880826
+The Punch Tavern,Fleet Street,Pub,https://en.wikipedia.org/wiki/The_Punch_Tavern,,,,51.514235360010325,-0.10495985936741696
+Hoop & Grapes,Aldgate,Pub,Potentially the oldest pub in London,,,,51.51440725213249,-0.0742149747129109
+Leadenhall Market,City,Venue,Historic Market area with pubs,,,,51.51289951917046,-0.08342161333107748
+Simpsons Tavern,City,Food/Drink,https://en.wikipedia.org/wiki/Simpson%27s_Tavern,Open daytime only,,,51.513258133462394,-0.08603745936745899
+Simpsons Tavern,City,Food/Drink,https://en.wikipedia.org/wiki/Simpson%27s_Tavern,Open daytime only,,,51.513258133462394,-0.08603745936745899
+Jamaica Wine House,City,Pub,https://en.wikipedia.org/wiki/Jamaica_Wine_House,Londons first coffee house,Named after the westindies merchants residing here,,51.513051410876606,51.513051410876606
+George & Vulture,City,Pub,https://en.wikipedia.org/wiki/George_and_Vulture,,,,51.51300041887473,-0.0857745151856306
+Fox & Hound,Belgravia,Pub,,,,,51.49117935643314,-0.15489000540398004
+The Orange,Belgravia,Pub,,,,,51.490615323136666,-0.15233186429123663
+Plumbers Arms,Belgravia,Pub,Pub connected to Lord Lucan,,,,51.49660083197203,-0.14763051704074698
+Duke of Wellington,Belgravia,Pub,,,,,51.49319255743916,-0.1533131440226765
